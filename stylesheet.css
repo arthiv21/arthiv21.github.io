@@ -1,9 +1,19 @@
-div {
+/*div {
 	border-radius: 5px;
 	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
-	height: 50px;
-	width: 120px;
+	background-color: #b3daff;
+	height: 100px;
+	width: 140px;
 	margin: auto;
-	text-align: center;
+}*/
+
+span {
+	font-size: 25px;
+	color: #009999;	
+}
+
+.stripe {
+	width: 600px; 
+	height: 10px; 
+	background-color: #99ddff;
 }
